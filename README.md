@@ -2,7 +2,8 @@
 
 This is a project implementation of the classic game "Rock, Paper, Scissors", developed using React, TypeScript, and Vite.
 
-![Screenshot_4](https://github.com/gabrielkrapp/rock-paper-scissors/assets/109620152/e0850812-1954-42e7-88b2-f7482c5fe3c6)
+![Screenshot_4](https://github.com/gabrielkrapp/rock-scissors-paper/assets/109620152/fe985959-f5e5-41e8-88c2-c87e418284d2)
+
 
 
 ## 🚀 Getting Started
